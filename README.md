@@ -1,4 +1,4 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=${eliabrodsky}.${eliabrodsky})
+![visitors](https://visitor-badge.glitch.me/badge?page_id=${eliabrodsky})
 
 - 👋 Hey there, I’m @eliabrodsky
 - 👀 I’m interested in data science, bioinformatics, finance and data visualization
